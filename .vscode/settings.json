@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "backup": "cpp",
+        "soil.h": "c"
+    }
+}
