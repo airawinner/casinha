@@ -1,20 +1,20 @@
 <h1 align="center">
     <p>Trabalho de Computação Gráfica - Cenário 3D</p>
     <img src="imagens/foto_apresentacao.jpeg">
-    <p>Desperte sua imaginação e mergulhe em um cenário 3D envolvente, repleto de luz, arquitetura e interatividade</p>
+    <p>Desperte sua imaginação e mergulhe em um cenário 3D envolvente, repleto de luz, arquitetura e interatividade!</p>
 </h1>
 
 ## 📚 Visão Geral
 
 O projeto "Trabalho Prático 2 (mini)" consiste na criação de um cenário 3D navegável com uma casa de 4 cômodos, móveis distribuídos, árvores e um moinho de vento em rotação. O cenário inclui iluminação detalhada e efeitos de luz ambiente, difusa e especular.
 
-Tal projeto é um trabalho que foi desenvolvido para a disicplina de Computação Gráfica a pedido do professor André do Centro Federal de Educação Tecnológica de Minas Gerais.
+Tal projeto é um trabalho que foi desenvolvido para a disciplina de Computação Gráfica a pedido do professor André do Centro Federal de Educação Tecnológica de Minas Gerais.
     
 ## 🎮 Preview
 
 <p align="center">
     Clique na imagem abaixo e assista a gameplay, vídeo no qual é detalhado de forma mais lúcida o funcionamento do programa.
-    <a href="videoDeApresentacao">
+    <a href="https://www.youtube.com/watch?v=FUpU-imlW-A">
         <img src="imagens/foto_apresentacao.jpg" alt="Vídeo de Apresentação do Trabalho">
     </a>
 </p>

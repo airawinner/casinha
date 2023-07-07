@@ -1098,7 +1098,7 @@ int main(int argc, char** argv) {
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH);
     glutInitWindowSize(800, 800);
-    glutCreateWindow("Cubo");
+    glutCreateWindow("TP2 - Cenário 3D");
     glutDisplayFunc(desenhaCena);
     glutReshapeFunc(redimensionada);
     glutIdleFunc(atualizaCena);
@@ -1110,4 +1110,3 @@ int main(int argc, char** argv) {
     glutMainLoop();
     return 0;
 }
-
